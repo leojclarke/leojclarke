@@ -11,8 +11,8 @@ Some of the projects I am working on at the moment are
 - taylor: an it helpdesk/ticketing system
 - fax: a fictional marketing site for a real product
 
-![idyeahs](https://github.com/leojclarke/leojclarke/blob/main/idyeahs.png)
-![finance wizard](https://github.com/leojclarke/leojclarke/blob/main/finance-wizard.png)
+[![idyeahs](https://github.com/leojclarke/leojclarke/blob/main/idyeahs.png)](https://github.com/leojclarke/idyeahs)
+![finance wizard](https://github.com/leojclarke/leojclarke/blob/main/finance-wizard.png)(https://github.com/leojclarke/finance-wizard)
 ![taylor](https://github.com/leojclarke/leojclarke/blob/main/taylor.png)
 ![fax](https://github.com/leojclarke/leojclarke/blob/main/fax.png)
 
