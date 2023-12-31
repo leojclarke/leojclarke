@@ -6,7 +6,7 @@ We all use web apps all day long and these are also my favourite type of project
 
 Some of the projects I am working on at the moment are
 
-- idyeahs: an app to collect and vote on ideas
+- [idyeahs](https://github.com/leojclarke/idyeahs): an app to collect and vote on ideas
 - finance wizard: a web version of a popular finance app
 - taylor: an it helpdesk/ticketing system
 - fax: a fictional marketing site for a real product
